@@ -1,0 +1,43 @@
+h1 {
+    color:black;
+}
+
+
+.header{
+    background-color: #ff0000;
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.site-desctiption{
+    background-color: #758933;
+    display:flex;
+    flex-direction: wrap;
+    justify-content: first baseline;
+}
+
+
+.grid{
+    background-color: #193349;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  space-evenly    ;
+    page-break-before: always; 
+}
+
+.footer{
+    background-color: #248322;
+    display:flex;
+    justify-content: flex-start;
+}
+
+p,h2{
+    background-color: #243900;
+    text-align:center;
+}
+
+
+
+
+
